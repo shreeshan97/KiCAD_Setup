@@ -5,6 +5,12 @@
 # AUTHOR: Shreesha SN
 # DATE: 2025-11-30
 # -----------------------------------------------------------------------------
+# Create Library folder
+mkdir Library
+
+# Change directory to Library folder
+cd Library
+
 # Add Passive components
 git submodule add https://github.com/shreeshan97/Lib_Passive.git
 
